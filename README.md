@@ -5,7 +5,7 @@ This project will help us learn the basics of **HTML** and **CSS**, as well as h
 Choose a person/place/thing of your choosing and create an informative wiki page about it! You do not need to write the text yourself, though you're welcome to do so--copy pasting (short) descriptions from another source is okay.
 
 ## Setup
-1. Go to [Replit](https://replit.com/~) and create a new HTML/CSS repository
+1. Create a new HTML/CSS project
 
 The two files we'll be editing are `index.html` and `style.css`.
 
@@ -20,9 +20,11 @@ Then, in the `body` of the file, add the following:
 + Within the `img` tag, give this image an `id` of `wikipic`.
 + At least one hyperlink, using the `<a>` tag and `href` keywords.
 
+Protip: You can use `p` tags to group text into their own paragraphs!
+
 ## CSS
 Now we move on to styling and decorating the page. Using tags and id attributes:
-+ Change the color of the background or add a background image
++ Change the color of the background OR add a background image
 + Change the font of your text
 + Change the color of your links
 
