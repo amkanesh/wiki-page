@@ -26,7 +26,7 @@ Protip: You can use `p` tags to group text into their own paragraphs!
 
 ## CSS
 Now we move on to styling and decorating the page. Using tags and id attributes:
-+ Change the color of the background OR add a background image
++ Change the color of the background OR add a background image. Make sure your text is still readable!
 + Change the font of your text
 + Change the color of your links
 + Move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
