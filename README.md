@@ -3,6 +3,8 @@ This project will help us learn the basics of **HTML** and **CSS**, as well as h
 
 ## Objective
 Choose a person/place/thing of your choosing and create an informative wiki page about it! You do not need to write the text yourself, though you're welcome to do so--copy pasting (short) descriptions from another source is okay.
++ Difficulty: Beginner
++ Prerequisites: Basic HTML and CSS knowledge
 
 ## Setup
 1. Create a new HTML/CSS project
@@ -30,4 +32,6 @@ Now we move on to styling and decorating the page. Using tags and id attributes:
 + Move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
 
 ## Stretch Goals
-Feel free to keep decorating your wiki page! An additional challenge would to be adding a horizontal navigation bar at the top of your page that links to different sections of your article. E.g. there'd be a link to the 'Description' section or 'History' section, etc. Hint: try using a list!
+Feel free to keep decorating your wiki page! 
+
+An additional challenge would to be adding a horizontal navigation bar at the top of your page that links to different sections of your article. E.g. there'd be a link to the 'Description' section or 'History' section, etc. (Hint: try using a list!) You could also add an icon for your wiki at the top left corner in this navigation bar. You could also try making it a fixed navigation bar, meaning it won't move as the user scrolls through the article!
