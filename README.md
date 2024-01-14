@@ -7,9 +7,7 @@ Choose a person/place/thing of your choosing and create an informative wiki page
 + Prerequisites: Basic HTML and CSS knowledge
 
 ## Setup
-1. Create a new HTML/CSS project
-
-The two files we'll be editing are `index.html` and `style.css`.
+Create a new HTML/CSS project. The two files we'll be editing are `index.html` and `style.css`.
 
 ## HTML
 First, go to `index.html` and change the text in the `<title>` tags to fit your wiki page.
@@ -25,13 +23,17 @@ Then, in the `body` of the file, add the following:
 Protip: You can use `p` tags to group text into their own paragraphs!
 
 ## CSS
-Now we move on to styling and decorating the page. Using tags and id attributes:
+Now we move on to styling and decorating the page. Make sure your CSS file is linked in `index.html`. Then, using selectors:
 + Change the color of the background OR add a background image. Make sure your text is still readable!
 + Change the font of your text
 + Change the color of your links
-+ Move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
++ Usng the `wikipic` selector we created, move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
 
 ## Stretch Goals
 Feel free to keep decorating your wiki page! 
 
 An additional challenge would to be adding a horizontal navigation bar at the top of your page that links to different sections of your article. E.g. there'd be a link to the 'Description' section or 'History' section, etc. (Hint: try using a list!) You could also add an icon for your wiki at the top left corner in this navigation bar. You could also try making it a fixed navigation bar, meaning it won't move as the user scrolls through the article!
+
+## Resources
++ https://www.w3schools.com/css/css_selectors.asp
++ https://www.w3schools.com/html/default.asp
