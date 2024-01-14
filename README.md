@@ -27,6 +27,7 @@ Now we move on to styling and decorating the page. Using tags and id attributes:
 + Change the color of the background OR add a background image
 + Change the font of your text
 + Change the color of your links
++ Move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
 
 ## Stretch Goals
-Feel free to keep decorating your wiki page! Some challenges would be adding a page header like the one Wikipedia has
+Feel free to keep decorating your wiki page! An additional challenge would to be adding a horizontal navigation bar at the top of your page that links to different sections of your article. E.g. there'd be a link to the 'Description' section or 'History' section, etc. Hint: try using a list!
