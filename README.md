@@ -2,17 +2,15 @@
 This project will help us learn the basics of **HTML** and **CSS**, as well as how to use these to create a simple webpage.
 
 ## Objective
-Choose a person/place/thing of your choosing and create an informative wiki page about it! You do not need to write the text yourself, though you're welcome to do so--copy pasting (short) descriptions from another source is okay.
+Choose your favorite animal and create an informative wiki page about it! You do not need to write the text yourself, though you're welcome to do so--copy pasting (short) descriptions from another source is okay.
 + Difficulty: Beginner
 + Prerequisites: Basic HTML and CSS knowledge
 
 ## Setup
-Create a new HTML/CSS project. The two files we'll be editing are `index.html` and `style.css`.
+Create a new HTML/CSS project at [CodePen](https://codepen.io).
 
 ## HTML
-First, go to `index.html` and change the text in the `<title>` tags to fit your wiki page.
-
-Then, in the `body` of the file, add the following:
+First, in the `body` of the HTML tab (wrapped with `<body>` tags!), add the following:
 + A page header using the `<header>` tag.
 + Either an ordered list or unordered list (either using `ol` or `ul`, respectively)
 + At least two sections of your wiki page (e.g. a 'Description' section or a 'Personal Life' section) using `h1`, `h2`, `h3`, etc.
@@ -23,11 +21,11 @@ Then, in the `body` of the file, add the following:
 Protip: You can use `p` tags to group text into their own paragraphs!
 
 ## CSS
-Now we move on to styling and decorating the page. Make sure your CSS file is linked in `index.html`. Then, using selectors:
-+ Change the color of the background OR add a background image. Make sure your text is still readable!
-+ Change the font of your text
-+ Change the color of your links
-+ Usng the `wikipic` selector we created, move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!)
+Now we move on to styling and decorating the page. Using selectors:
++ Change the color of the background OR add a background image. Make sure your text is still readable! These can be edited with the `background-color` and `background-image` attributes, respectively.
++ Change the font of your text (using the `color` attribute)
++ Change the color of your links (hint: make sure to target the `a` selector to only change link text colors)
++ Usng the `wikipic` selector we created, move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!) (hint: try using the `float` attribute)
 
 ## Stretch Goals
 Feel free to keep decorating your wiki page! 
