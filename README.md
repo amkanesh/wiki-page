@@ -26,6 +26,7 @@ Now we move on to styling and decorating the page. Using selectors:
 + Change the font of your text (using the `color` attribute)
 + Change the color of your links (hint: make sure to target the `a` selector to only change link text colors)
 + Usng the `wikipic` selector we created, move your image so that it's placed on the **right** side of the screen, inline with the text. (like Wikipedia!) (hint: try using the `float` attribute)
+Note: you should also resize the image to better fit on the screen.
 
 ## Stretch Goals
 Feel free to keep decorating your wiki page! 
