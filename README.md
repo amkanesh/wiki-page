@@ -13,7 +13,7 @@ Create a new HTML/CSS project at [CodePen](https://codepen.io).
 First, in the `body` of the HTML tab (wrapped with `<body>` tags!), add the following:
 + A page header using the `<h1>` tag.
 + Either an ordered list or unordered list (either using `ol` or `ul`, respectively)
-+ At least two sections of your wiki page (e.g. a 'Description' section or a 'Personal Life' section) using `h1`, `h2`, `h3`, etc.
++ At least two sections of your wiki page (e.g. a 'Description' section or a 'Habitat' section) using `h2`, `h3`, etc.
 + A picture of your wiki subject using the `<img>` tag. Don't forget an `alt` description!
 + Within the `img` tag, give this image an `id` of `wikipic`.
 + At least one hyperlink, using the `<a>` tag and `href` keywords.
