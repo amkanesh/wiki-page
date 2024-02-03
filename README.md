@@ -26,7 +26,7 @@ First, in the `body` of the HTML tab (wrapped with `<body>` tags!), add the foll
 + A picture of your wiki subject using the `<img>` tag. Don't forget an `alt` description!
 + Within the `img` tag, give this image an `id` of `wikipic`.
 ```
-<img height=300px id="wikipic" src="https://earth.org/wp-content/uploads/2022/02/Untitled-design-2022-02-07T145557.876.jpg" alt="A picture of a whale shark.">
+<img id="wikipic" src="https://earth.org/wp-content/uploads/2022/02/Untitled-design-2022-02-07T145557.876.jpg" alt="A picture of a whale shark.">
 ```
 + At least one hyperlink, using the `<a>` tag and `href` keywords.
 ```
