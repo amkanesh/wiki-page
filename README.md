@@ -11,12 +11,27 @@ Create a new HTML/CSS project at [CodePen](https://codepen.io).
 
 ## HTML
 First, in the `body` of the HTML tab (wrapped with `<body>` tags!), add the following:
-+ A page header using the `<h1>` tag.
++ A page header using the `<h1>` tag. E.g.:
+```
+<h1>Whale Shark</h1>
+```
 + Either an ordered list or unordered list (either using `ol` or `ul`, respectively)
+```
+<ul>
+    <li>Description</li>
+    <li>Distribution and Habitat</li>
+</ul>
+```
 + At least two sections of your wiki page (e.g. a 'Description' section or a 'Habitat' section) using `h2`, `h3`, etc.
 + A picture of your wiki subject using the `<img>` tag. Don't forget an `alt` description!
 + Within the `img` tag, give this image an `id` of `wikipic`.
+```
+<img height=300px id="wikipic" src="https://earth.org/wp-content/uploads/2022/02/Untitled-design-2022-02-07T145557.876.jpg" alt="A picture of a whale shark.">
+```
 + At least one hyperlink, using the `<a>` tag and `href` keywords.
+```
+<p>More information can be found <a href="https://en.wikipedia.org/wiki/Whale_shark">here</a> at Wikipedia.</p>
+```
 
 Protip: You can use `p` tags to group text into their own paragraphs!
 
